@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/rushikeshb"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:rushiborse60@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/rushiib60"><img src="https://komarev.com/ghpvc/?username=rushiib60&label=Profile%20views&color=0e75b6&style=for-the-badge" /></a>
+  <a href="https://github.com/rushii-b"><img src="https://komarev.com/ghpvc/?username=rushii-b&label=Profile%20views&color=0e75b6&style=for-the-badge" /></a>
 </p>
 
 ---
@@ -79,12 +79,12 @@ My technical toolkit includes **Java, Python, Golang, JavaScript, ReactJS, Sprin
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [🏛️ Social Entrepreneurship Platform](https://github.com/rushiib60/Development-Of-Social-Entrepreneurship-Platform) | SIH 2018 Grand Finale — connects govt ministries with social entrepreneurs | PHP, MySQL, Azure |
-| [📊 Standardization of Marks](https://github.com/rushiib60/SIH-2017-Standardization-of-Marks) | SIH 2017 — algorithm to eliminate marks bunching in board exams | PHP, MySQL, VBA |
-| [🎯 Hackathon As A Service](https://github.com/rushiib60/Hackathon-As-a-Service) | Built at Persistent Systems — full platform to host & manage hackathons | TypeScript, Angular, Node.js |
-| [🛍️ BulkyWeb](https://github.com/rushiib60/BulkyWeb) | E-commerce app with cart, role-based access & Stripe payments | ASP.NET Core, C# |
-| [🧠 Quora Question Classification](https://github.com/rushiib60/Quora-Insincere-Questions-Classification) | NLP model (bi-LSTM + CNN) achieving F1=0.64 on 1.3M records | Python, Keras, NLTK |
-| [📈 R Shiny Web Apps](https://github.com/rushiib60/RShiny-WebApp) | BMI calculator, ML predictor, graphical analysis — collection of Shiny apps | R, Shiny |
+| [🏛️ Social Entrepreneurship Platform](https://github.com/rushii-b/Development-Of-Social-Entrepreneurship-Platform) | SIH 2018 Grand Finale — connects govt ministries with social entrepreneurs | PHP, MySQL, Azure |
+| [📊 Standardization of Marks](https://github.com/rushii-b/SIH-2017-Standardization-of-Marks) | SIH 2017 — algorithm to eliminate marks bunching in board exams | PHP, MySQL, VBA |
+| [🎯 Hackathon As A Service](https://github.com/rushii-b/Hackathon-As-a-Service) | Built at Persistent Systems — full platform to host & manage hackathons | TypeScript, Angular, Node.js |
+| [🛍️ BulkyWeb](https://github.com/rushii-b/BulkyWeb) | E-commerce app with cart, role-based access & Stripe payments | ASP.NET Core, C# |
+| [🧠 Quora Question Classification](https://github.com/rushii-b/Quora-Insincere-Questions-Classification) | NLP model (bi-LSTM + CNN) achieving F1=0.64 on 1.3M records | Python, Keras, NLTK |
+| [📈 R Shiny Web Apps](https://github.com/rushii-b/RShiny-WebApp) | BMI calculator, ML predictor, graphical analysis — collection of Shiny apps | R, Shiny |
 
 ---
 
@@ -109,8 +109,8 @@ My technical toolkit includes **Java, Python, Golang, JavaScript, ReactJS, Sprin
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rushiib60&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushiib60&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rushii-b&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushii-b&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
