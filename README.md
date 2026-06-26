@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rushikesh Borse 👋</h1>
+<h1 align="center">Hi, I'm Rushikessh Borse 👋</h1>
 
 <p align="center">
   <b>Software Development Engineer @ AWS EKS</b> &nbsp;|&nbsp; Go · Java · Python &nbsp;|&nbsp; San Francisco, CA
